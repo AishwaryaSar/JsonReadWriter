@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\SchoolService.csproj": {}
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\SchoolService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\SchoolBusiness.csproj": {
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\SchoolBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\SchoolBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\SchoolBusiness.csproj",
         "projectName": "SchoolBusiness",
-        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\SchoolBusiness.csproj",
+        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\SchoolBusiness.csproj",
         "packagesPath": "C:\\Users\\AISHWARYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\obj\\",
+        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AISHWARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\SchoolData.csproj": {
-                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\SchoolData.csproj"
+              "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\SchoolData.csproj": {
+                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\SchoolData.csproj"
               },
-              "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj": {
-                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj"
+              "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj": {
+                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\SchoolData.csproj": {
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\SchoolData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\SchoolData.csproj",
+        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\SchoolData.csproj",
         "projectName": "SchoolData",
-        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\SchoolData.csproj",
+        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\SchoolData.csproj",
         "packagesPath": "C:\\Users\\AISHWARYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolData\\obj\\",
+        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AISHWARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj": {
-                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj"
+              "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj": {
+                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj"
               }
             }
           }
@@ -105,6 +105,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -125,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj": {
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj",
+        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj",
         "projectName": "SchoolDomain",
-        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj",
+        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj",
         "packagesPath": "C:\\Users\\AISHWARYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\obj\\",
+        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AISHWARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\SchoolService.csproj": {
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\SchoolService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\SchoolService.csproj",
+        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\SchoolService.csproj",
         "projectName": "SchoolService",
-        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\SchoolService.csproj",
+        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\SchoolService.csproj",
         "packagesPath": "C:\\Users\\AISHWARYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\obj\\",
+        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AISHWARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,8 +210,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\SchoolBusiness.csproj": {
-                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolBusiness\\SchoolBusiness.csproj"
+              "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\SchoolBusiness.csproj": {
+                "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolBusiness\\SchoolBusiness.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj": {}
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj": {
+    "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj",
+        "projectUniqueName": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj",
         "projectName": "SchoolDomain",
-        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\SchoolDomain.csproj",
+        "projectPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\SchoolDomain.csproj",
         "packagesPath": "C:\\Users\\AISHWARYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolDomain\\obj\\",
+        "outputPath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AISHWARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,11 +8,6 @@ namespace SchoolDomain
 {
     public class StudentCourse
     {
-        public static List<StudentCourse> StudentCourses;
-        static StudentCourse()
-        {
-            StudentCourses = new List<StudentCourse>();
-        }
         public Student student { get; set; }
         public Course course { get; set; }
         public string grade { get; set; }  

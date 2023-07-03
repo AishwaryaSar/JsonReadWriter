@@ -1,0 +1,5 @@
+C:\Users\AISHWARYA\source\repos\Univeristy database\Logger\obj\Debug\net7.0\Logger.csproj.AssemblyReference.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\Logger\obj\Debug\net7.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AISHWARYA\source\repos\Univeristy database\Logger\obj\Debug\net7.0\Logger.AssemblyInfoInputs.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\Logger\obj\Debug\net7.0\Logger.AssemblyInfo.cs
+C:\Users\AISHWARYA\source\repos\Univeristy database\Logger\obj\Debug\net7.0\Logger.csproj.CoreCompileInputs.cache

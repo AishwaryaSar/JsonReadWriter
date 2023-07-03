@@ -2,6 +2,7 @@
 //presentation layer and sending it back
 //web service running on web server
 using SchoolBusiness;
+using System.Runtime.ExceptionServices;
 
 namespace SchoolService
 {
@@ -15,37 +16,38 @@ namespace SchoolService
                 switch (methodName.ToLower())
                 {
                     case "createstudent":
-                        int studentId = Convert.ToInt32(vars[0]);
                         string studentName = vars[1];
                         float gpa = (float)Convert.ToDouble(vars[2]);
-                        business.AddStudent(studentId, studentName, gpa);
+                        business.AddStudent(studentName, gpa);
                         break;
                     case "createinstructor":
-                        int instructorId = Convert.ToInt32(vars[0]);
                         string instructorName = vars[1];
-                        business.AddInstructor(instructorId, instructorName);
+                        business.AddInstructor(instructorName);
                         break;
                     case "createcourse":
-                        int courseId = Convert.ToInt32(vars[0]);
                         string courseName = vars[1];
                         int creditHours = Convert.ToInt32(vars[2]);
-                        business.AddCourse(courseId, courseName, creditHours);
+                        business.AddCourse(courseName, creditHours);
                         break;
                     case "addstudenttocourse":
-                        int studentIdAssigned = Convert.ToInt32(vars[0]);
-                        int courseIdRegistered = Convert.ToInt32(vars[1]);
+                        Guid studentIdAssigned = new Guid(vars[0]);
+                        Guid courseIdRegistered = new Guid(vars[1]);
                         business.AddStudentToCourse(studentIdAssigned, courseIdRegistered);
                         break;
                     case "addinstructortocourse":
-                        int course = Convert.ToInt32(vars[0]);
-                        int instructor = Convert.ToInt32(vars[1]);
-                        business.AddInstructorToCourse(course, instructor);
+                        business.AddInstructorToCourse();
                         break;
                     case "addstudentgrade":
-                        int studentIdGrade = Convert.ToInt32(vars[0]);
-                        int courseIdGrade = Convert.ToInt32(vars[1]);
+                        Guid studentIdGrade = new Guid(vars[0]);
+                        Guid courseIdGrade = new Guid(vars[1]);
                         string courseGrade = vars[2];
                         business.AddGradeToStudent(studentIdGrade, courseIdGrade, courseGrade);
+                        break;
+                    case "datapersistence":
+                        business.PersistBusinessObjects();
+                        break;
+                    case "loaddatafromjson":
+                        business.LoadJSONdata();
                         break;
                 }
             }

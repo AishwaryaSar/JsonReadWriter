@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School Project", "School Project.csproj", "{8ABD31B8-3727-4FA7-AEE4-B951CC285269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School Project", "School Project.csproj", "{8ABD31B8-3727-4FA7-AEE4-B951CC285269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolService", "..\SchoolService\SchoolService.csproj", "{19D5BD17-A91B-45C3-BE47-79927769046B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolService", "..\SchoolService\SchoolService.csproj", "{19D5BD17-A91B-45C3-BE47-79927769046B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolBusiness", "..\SchoolBusiness\SchoolBusiness.csproj", "{8A9A4207-D0FD-4700-9C5F-7E91CE4BF4F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolBusiness", "..\SchoolBusiness\SchoolBusiness.csproj", "{8A9A4207-D0FD-4700-9C5F-7E91CE4BF4F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolData", "..\SchoolData\SchoolData.csproj", "{1548F7EF-9FB3-40A9-9190-2E1862A805BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolData", "..\SchoolData\SchoolData.csproj", "{1548F7EF-9FB3-40A9-9190-2E1862A805BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDomain", "..\SchoolDomain\SchoolDomain.csproj", "{A8B5CB50-9968-44B3-A5E1-2C66873A4702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolDomain", "..\SchoolDomain\SchoolDomain.csproj", "{A8B5CB50-9968-44B3-A5E1-2C66873A4702}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

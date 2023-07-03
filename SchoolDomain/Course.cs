@@ -8,13 +8,7 @@ namespace SchoolDomain
 {
     public class Course
     {
-        public static List<Course> Courses;
-        static Course()
-        {
-            //when the class gets initialised, the student list will be created
-            Courses = new List<Course>();
-        }
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string CourseName { get; set; }
         public int CreditHours { get; set; }
         public Instructor CourseInstructor { get; set; }

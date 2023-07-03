@@ -10,3 +10,15 @@ C:\Users\AISHWARYA\source\repos\SchoolDomain\obj\Debug\net7.0\SchoolDomain.dll
 C:\Users\AISHWARYA\source\repos\SchoolDomain\obj\Debug\net7.0\refint\SchoolDomain.dll
 C:\Users\AISHWARYA\source\repos\SchoolDomain\obj\Debug\net7.0\SchoolDomain.pdb
 C:\Users\AISHWARYA\source\repos\SchoolDomain\obj\Debug\net7.0\ref\SchoolDomain.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\bin\Debug\net7.0\SchoolDomain.deps.json
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\bin\Debug\net7.0\SchoolDomain.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\bin\Debug\net7.0\SchoolDomain.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.csproj.AssemblyReference.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.AssemblyInfoInputs.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.AssemblyInfo.cs
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.csproj.CoreCompileInputs.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\refint\SchoolDomain.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\SchoolDomain.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolDomain\obj\Debug\net7.0\ref\SchoolDomain.dll

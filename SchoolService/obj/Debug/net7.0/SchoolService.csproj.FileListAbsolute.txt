@@ -17,3 +17,22 @@ C:\Users\AISHWARYA\source\repos\SchoolService\obj\Debug\net7.0\SchoolService.dll
 C:\Users\AISHWARYA\source\repos\SchoolService\obj\Debug\net7.0\refint\SchoolService.dll
 C:\Users\AISHWARYA\source\repos\SchoolService\obj\Debug\net7.0\SchoolService.pdb
 C:\Users\AISHWARYA\source\repos\SchoolService\obj\Debug\net7.0\ref\SchoolService.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolService.deps.json
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolService.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolService.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolBusiness.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolData.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolDomain.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolBusiness.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolData.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\bin\Debug\net7.0\SchoolDomain.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.csproj.AssemblyReference.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.AssemblyInfoInputs.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.AssemblyInfo.cs
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.csproj.CoreCompileInputs.cache
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.csproj.CopyComplete
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\refint\SchoolService.dll
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\SchoolService.pdb
+C:\Users\AISHWARYA\source\repos\Univeristy database\SchoolService\obj\Debug\net7.0\ref\SchoolService.dll

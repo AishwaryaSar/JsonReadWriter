@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EKVKPNjw1hDnxkTosaWPD74GCQUBNVHqsykJYKZcy5fNOoItxDKE5wD7mBsjkOhnBi3qa6t/Ifd/P2dYMXDOtw==",
+  "dgSpecHash": "AHSHZa8MDTfpWZ/ZHNn2G6ff45FmTMPwaJwGXLVjmJdD3i4G85IUWmGA/RsTc3wE74kgLApus/+q5Ak729wo2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AISHWARYA\\source\\repos\\SchoolService\\SchoolService.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AISHWARYA\\source\\repos\\Univeristy database\\SchoolService\\SchoolService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AISHWARYA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
